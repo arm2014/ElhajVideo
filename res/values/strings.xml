@@ -4,5 +4,24 @@
     <string name="app_name">ElhajVideo</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <color name="mid_white_clr">#EDEDED</color>
+    <color name="white">#ffffff</color>
+    <color name="light_gray_clr">#D1D1D1</color>
+	<string-array name="stepsName">
+	    <item>الميقات</item>
+	    <item>وصول مكه</item>
+	    <item>الطواف</item>
+	    <item>السعى</item>
+	    <item>الحلق والتقصير </item>
+	    <item>يوم الترويه</item>
+	    <item>الوقوف بعرفه</item>
+	    <item>الافاضة الى المزدلفه</item>
+	    <item>رمى جمره العقبه</item>
+	    <item>التحلل الأول</item>
+	    <item>طواف الافاضة </item>
+	    <item> المبيت بمنى </item>
+	    <item>رمى الجمرات </item>
+	    <item>طواف الوداع</item>	    
+	</string-array>
 
 </resources>

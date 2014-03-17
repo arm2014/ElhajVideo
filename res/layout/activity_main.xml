@@ -6,12 +6,16 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/t1hg2an8fu3x"
+    android:alpha="50"
     tools:context=".MainActivity" >
 
     <ListView
-        android:id="@+id/listView1"
+        android:id="@+id/mainList"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
+       
+        android:cacheColorHint="#00000000"
          >
     </ListView>
 
